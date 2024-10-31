@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1596367407372-96cb88503db6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D");
+}
+.user-card {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+    border: 2px solid #7acaff;
+    padding: 10px;
+    background-color: #4fff8f;
+}
+.avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
